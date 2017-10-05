@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5 {
     padding: 10px 30px;
 }
 .btn-alt:hover {
-    background: #fff;
+    background: #d9ffba;
     color: #648880;
 }
 
@@ -161,6 +161,13 @@ h1, h2, h3, h4, h5 {
 
 .teaser a:hover h3 {
     color: #a9b2b9;
+}
+
+.teaser img {
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 22px;
+    max-width: 100%;
 }
 
 .col-1-3 {
